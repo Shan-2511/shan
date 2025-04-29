@@ -1,1 +1,3 @@
-print("hello")
+cars = "audi q7"
+print(cars)
+type(cars)
